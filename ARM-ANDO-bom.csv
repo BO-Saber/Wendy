@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"ESP8266 NodeMCU","Brain",1,1.78,"","Quartz Components"
+".96 OLED","Screen for display",1,1.46,"","Quartz Components "
+"Tactile Switch ","Navigation",3,0.20,"","Quartz Components"
+"SPDT Switch","on/off",1,0.19,"","Quartz Components"
+"3.7v battery","Power Source ",1,2.89,"","Quartz Components"
+"TP4056","Charging",1,0.16,"","Quartz Components "
+"DC-DC Boost module","Power boost ",1,0.32,"","Quartz Components "
+"Custom PCB ","Center ",1,10.00,"","ZBotic"
